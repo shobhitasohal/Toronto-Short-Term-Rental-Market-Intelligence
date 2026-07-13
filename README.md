@@ -277,7 +277,9 @@ The SQL queries above were run directly in Power BI's Power Query editor using t
 | File | Description |
 |---|---|
 | `toronto_str_market.pbix` | Interactive 2-page Power BI dashboard |
+| `Toronto_STR_Market_Intelligence.pptx` | 2-page presentation with dashboard screenshots and key findings per business question |
 
+> SQL queries are documented directly in this README. All queries were written and executed in Google BigQuery — no local `.sql` files were used.
 
 ---
 
